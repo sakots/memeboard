@@ -1,1 +1,8 @@
 config.php
+
+dat/
+log/
+tmp/
+*.log
+*.tmp
+.cache/
