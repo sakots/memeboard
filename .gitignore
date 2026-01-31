@@ -6,3 +6,5 @@ tmp/
 *.log
 *.tmp
 .cache/
+
+/board/
