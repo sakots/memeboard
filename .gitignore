@@ -6,5 +6,6 @@ tmp/
 *.log
 *.tmp
 .cache/
+/BladeOne/
 
 /board/
